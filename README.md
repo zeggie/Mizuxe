@@ -1,5 +1,5 @@
 # Mizuxe
-OnePage Website with Smooth Nav
+OnePage Website with Smooth Nav - Bootstrap 4 Beta
 
 ## Install Dependencies
 
